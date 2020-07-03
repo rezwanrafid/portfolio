@@ -21,10 +21,10 @@ h1 {
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
-    border : 1px red solid;
 }
 section{
-    height: 500px;  
+    height: 500px;
+    padding-bottom: 100px;
 }
 .link-button { 
     text-decoration: none;
